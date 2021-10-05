@@ -1,4 +1,4 @@
-# Bankdata-authontication-dataset
+# Banknote-authontication-dataset
 Exploring,Visualising,Custering dataset by Kmeans
 
 Tools used: Jupyter notebooks,python,matplot,numpy,pandas.
