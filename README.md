@@ -1,5 +1,6 @@
 # Bankdata-authontication-dataset
-Exploring,Visualising,cCustering dataset by Kmeans
+Exploring,Visualising,Custering dataset by Kmeans
+Tools used: Jupyter notebooks,python,matplot,numpy,pandas.
 
 1.Purpose of the Data Science Project:
 
